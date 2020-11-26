@@ -1,4 +1,4 @@
-# Baran Sümer 26-11-2020 
+# Baran Sümer 26-11-2020 || Node.js ve Vue.js Projesi
 
 Vue.js ve Node.js kullanarak CRUD işlemleri yapan bir proje oluşturulmuştur.
 
